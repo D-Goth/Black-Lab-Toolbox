@@ -25,7 +25,7 @@ Black‑Lab Toolbox est conçue selon une approche “privacy‑first”.
 - Zéro publicité
 - Dépendances externes limitées au strict nécessaire
 - Appels réseau transparents et justifiés
-- 
+
 ## Installation locale
 
 Chaque outil fonctionne en HTML/CSS/JS/PHP simple.  
