@@ -61,7 +61,7 @@ Ces outils ont été développés progressivement, chacun apportant de nouvelles
 
 ### **Phase 4 : Fusion & Optimisation (2026)**
 - **CleanShell/Script Whisperer** → Regex patterns avancés, analyse statique
-- **Mermaid Lab** → Diagrammes programmables, export multi-format
+- **Nouveautés** :: Ajouts d'outils sur le Git et en démo sur le site
 
 ---
 
@@ -80,7 +80,6 @@ Ces outils ont été développés progressivement, chacun apportant de nouvelles
 | **Prompt Lab** | Logique propriétaire | Scoring sur-mesure, pas de framework IA générique |
 | **CleanShell** | Regex patterns custom | Anonymisation ciblée, pas de sur-dépendance |
 | **Script Whisperer** | Analyse statique custom | Audit de sécurité spécifique au contexte |
-| **Mermaid Lab** | Mermaid.js, html2canvas | Diagrammes standards + export haute résolution |
 
 ---
 
@@ -123,22 +122,22 @@ https://github.com/D-Goth/black-lab-toolbox
 
 ## 📋 Liste complète des outils
 
-| Icône | Nom de l'outil              | Description                                              | Catégorie                     | Démo en ligne                                      |
-|-------|-----------------------------|----------------------------------------------------------|-------------------------------|----------------------------------------------------|
-| 🪄    | Aura Control                | Contrôle avancé des auras et permissions                 | Sécurité & Code               | https://black-lab.fr/aura-control/                 |
-| 🎨    | Badges Generator            | Générateur de badges et QR codes stylés                  | Création Visuelle             | https://black-lab.fr/badges-generator/             |
-| 🧹    | CleanShell Anonymizer       | Nettoyage et anonymisation de scripts shell              | Sécurité & Code               | https://black-lab.fr/cleanshell-anonymizer/        |
-| 🎨    | Chroma Lab                  | Générateur de palettes de couleurs harmonieuses          | Création Visuelle             | https://black-lab.fr/chroma-lab/                   |
-| 🍓    | Dashboard RPi               | Supervision Raspberry Pi en temps réel                   | Réseau & Systèmes (Ops)       | https://black-lab.fr/dashboard-rpi/                |
-| 🌐    | DNS Lookup                  | Recherche DNS avancée et traçage IP                      | Réseau & Systèmes (Ops)       | https://black-lab.fr/dns-lookup/                   |
-| 📍    | IP Tracer                   | Géolocalisation et traçage IP détaillé                   | Réseau & Systèmes (Ops)       | https://black-lab.fr/ip-tracer/                    |
-| 🧩    | MindMap Creator             | Création de mindmaps interactives                        | Productivité                  | https://black-lab.fr/mindmap-creator/              |
-| 🔑    | Passwords Generator         | Générateur de mots de passe ultra-sécurisés              | Sécurité & Code               | https://black-lab.fr/passwords-generator/          |
-| 📄    | PDF Forge                   | Manipulation PDF complète côté client                    | Productivité                  | https://black-lab.fr/pdf-forge/                    |
-| 🧠    | Prompt Lab                  | 300+ briques expertes, scoring multi-axes                | IA Générative                 | https://black-lab.fr/prompt-lab/                   |
-| 🔳    | QR Code Generator           | Générateur QR avancé et personnalisé                     | Création Visuelle             | https://black-lab.fr/qr-code-generator/            |
-| 🧹    | Script Whisperer            | Moteur d'analyse et évaluation de scripts                | Sécurité & Code               | https://black-lab.fr/script-whisperer/             |
-| ☀️    | Weather Dashboard Pro       | Tableau de bord météo personnalisé                       | Productivité                  | https://black-lab.fr/weather-dashboard-pro/        |
+| Icône | Nom de l'outil              | Description                                              | Catégorie                     | 
+|-------|-----------------------------|----------------------------------------------------------|-------------------------------|
+| 🪄    | Aura Control                | Contrôle avancé des auras et permissions                 | Sécurité & Code               |
+| 🎨    | Badges Generator            | Générateur de badges et QR codes stylés                  | Création Visuelle             |
+| 🧹    | CleanShell Anonymizer       | Nettoyage et anonymisation de scripts shell              | Sécurité & Code               |
+| 🎨    | Chroma Lab                  | Générateur de palettes de couleurs harmonieuses          | Création Visuelle             |
+| 🍓    | Dashboard RPi               | Supervision Raspberry Pi en temps réel                   | Réseau & Systèmes (Ops)       |
+| 🌐    | DNS Lookup                  | Recherche DNS avancée et traçage IP                      | Réseau & Systèmes (Ops)       |
+| 📍    | IP Tracer                   | Géolocalisation et traçage IP détaillé                   | Réseau & Systèmes (Ops)       |
+| 🧩    | MindMap Creator             | Création de mindmaps interactives                        | Productivité                  |
+| 🔑    | Passwords Generator         | Générateur de mots de passe ultra-sécurisés              | Sécurité & Code               |
+| 📄    | PDF Forge                   | Manipulation PDF complète côté client                    | Productivité                  |
+| 🧠    | Prompt Lab                  | 300+ briques expertes, scoring multi-axes                | IA Générative                 |
+| 🔳    | QR Code Generator           | Générateur QR avancé et personnalisé                     | Création Visuelle             |
+| 🧹    | Script Whisperer            | Moteur d'analyse et évaluation de scripts                | Sécurité & Code               |
+| ☀️    | Weather Dashboard Pro       | Tableau de bord météo personnalisé                       | Productivité                  |
 
 ---
 
@@ -270,7 +269,6 @@ These tools were developed progressively, each adding new skills:
 
 **Phase 4: Fusion & Optimization (2026)**  
 - CleanShell / Script Whisperer → Advanced regex patterns, static analysis  
-- Mermaid Lab → Programmable diagrams, multi-format export  
 
 ### 🎯 Technical Choices by Project
 
@@ -287,7 +285,6 @@ These tools were developed progressively, each adding new skills:
 | Prompt Lab               | Proprietary logic                  | Custom multi-axis scoring, no generic AI framework                            |
 | CleanShell               | Custom regex patterns              | Targeted anonymization, no over-dependency                                    |
 | Script Whisperer         | Custom static analysis             | Security audit specific to context                                            |
-| Mermaid Lab              | Mermaid.js, html2canvas            | Standard diagrams + high-resolution export                                    |
 
 ### 💡 Genesis of a Few Projects
 
@@ -326,22 +323,22 @@ https://github.com/D-Goth/black-lab-toolbox
 
 ### 📋 Full Tool List
 
-| Icon | Tool Name                  | Description                                              | Category                      | Live Demo                                          |
-|------|----------------------------|----------------------------------------------------------|-------------------------------|----------------------------------------------------|
-| 🪄   | Aura Control               | Advanced control of auras and permissions                | Security & Code               | https://black-lab.fr/aura-control/                 |
-| 🎨   | Badges Generator           | Generator of styled badges and QR codes                  | Visual Creation               | https://black-lab.fr/badges-generator/             |
-| 🧹   | CleanShell Anonymizer      | Cleaning and anonymization of shell scripts              | Security & Code               | https://black-lab.fr/cleanshell-anonymizer/        |
-| 🎨   | Chroma Lab                 | Generator of harmonious color palettes                   | Visual Creation               | https://black-lab.fr/chroma-lab/                   |
-| 🍓   | Dashboard RPi              | Real-time Raspberry Pi supervision                       | Network & Systems (Ops)       | https://black-lab.fr/dashboard-rpi/                |
-| 🌐   | DNS Lookup                 | Advanced DNS lookup and IP tracing                       | Network & Systems (Ops)       | https://black-lab.fr/dns-lookup/                   |
-| 📍   | IP Tracer                  | Detailed IP geolocation and tracing                      | Network & Systems (Ops)       | https://black-lab.fr/ip-tracer/                    |
-| 🧩   | MindMap Creator            | Creation of interactive mindmaps                         | Productivity                  | https://black-lab.fr/mindmap-creator/              |
-| 🔑   | Passwords Generator        | Ultra-secure password generator                          | Security & Code               | https://black-lab.fr/passwords-generator/          |
-| 📄   | PDF Forge                  | Complete client-side PDF manipulation                    | Productivity                  | https://black-lab.fr/pdf-forge/                    |
-| 🧠   | Prompt Lab                 | 300+ expert bricks, multi-axis scoring                   | Generative AI                 | https://black-lab.fr/prompt-lab/                   |
-| 🔳   | QR Code Generator          | Advanced and personalized QR code generator              | Visual Creation               | https://black-lab.fr/qr-code-generator/            |
-| 🧹   | Script Whisperer           | Script analysis and evaluation engine                    | Security & Code               | https://black-lab.fr/script-whisperer/             |
-| ☀️   | Weather Dashboard Pro      | Personalized weather dashboard                           | Productivity                  | https://black-lab.fr/weather-dashboard-pro/        |
+| Icon | Tool Name                  | Description                                              | Category                      |
+|------|----------------------------|----------------------------------------------------------|-------------------------------|
+| 🪄   | Aura Control               | Advanced control of auras and permissions                | Security & Code               |
+| 🎨   | Badges Generator           | Generator of styled badges and QR codes                  | Visual Creation               |
+| 🧹   | CleanShell Anonymizer      | Cleaning and anonymization of shell scripts              | Security & Code               |
+| 🎨   | Chroma Lab                 | Generator of harmonious color palettes                   | Visual Creation               |
+| 🍓   | Dashboard RPi              | Real-time Raspberry Pi supervision                       | Network & Systems (Ops)       |
+| 🌐   | DNS Lookup                 | Advanced DNS lookup and IP tracing                       | Network & Systems (Ops)       |
+| 📍   | IP Tracer                  | Detailed IP geolocation and tracing                      | Network & Systems (Ops)       |
+| 🧩   | MindMap Creator            | Creation of interactive mindmaps                         | Productivity                  |
+| 🔑   | Passwords Generator        | Ultra-secure password generator                          | Security & Code               |
+| 📄   | PDF Forge                  | Complete client-side PDF manipulation                    | Productivity                  |
+| 🧠   | Prompt Lab                 | 300+ expert bricks, multi-axis scoring                   | Generative AI                 |
+| 🔳   | QR Code Generator          | Advanced and personalized QR code generator              | Visual Creation               |
+| 🧹   | Script Whisperer           | Script analysis and evaluation engine                    | Security & Code               |
+| ☀️   | Weather Dashboard Pro      | Personalized weather dashboard                           | Productivity                  |
 
 ### 💼 Demonstrated Technical Skills
 
