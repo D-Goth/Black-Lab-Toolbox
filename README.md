@@ -1,7 +1,7 @@
 # Black-Lab Toolbox
 
 ![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-ff1654)
-![PHP](https://img.shields.io/badge/PHP-7.4+-777BB4?logo=php)
+![PHP](https://img.shields.io/badge/PHP-8.0+-ff1654?logo=php)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
 ![Live](https://img.shields.io/badge/Live-black--lab.fr-ff1654)
 
