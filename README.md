@@ -314,7 +314,6 @@ https://github.com/D-Goth/black-lab-toolbox
 
 | Icon | Tool Name                  | Description                                              | Category                      |
 |------|----------------------------|----------------------------------------------------------|-------------------------------|
-| 🪄   | Aura Control               | Advanced control of auras and permissions                | Security & Code               |
 | 🎨   | Badges Generator           | Generator of styled badges and QR codes                  | Visual Creation               |
 | 🧹   | CleanShell Anonymizer      | Cleaning and anonymization of shell scripts              | Security & Code               |
 | 🎨   | Chroma Lab                 | Generator of harmonious color palettes                   | Visual Creation               |
