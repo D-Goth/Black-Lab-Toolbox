@@ -107,15 +107,10 @@ Ces outils ont été développés progressivement, chacun apportant de nouvelles
 
 ---
 
-## Installation locale
-
-Chaque outil fonctionne en HTML/CSS/JS/PHP simple.  
-Clonez le dépôt, placez le dossier de l'outil dans un serveur local (Apache, Nginx, Laragon, WAMP…) et ouvrez `index.php`.
-
-**Démo complète et filtrable** :  
+## **Démo complète et filtrable** :  
 https://black-lab.fr/toolbox/
 
-**Code source organisé** (un dossier par outil ; en cours de création côté GitHub) :  
+## **Code source organisé** (un dossier par outil ; en cours de création côté GitHub) :  
 https://github.com/D-Goth/black-lab-toolbox
 
 ---
@@ -307,11 +302,6 @@ Evolution: 300+ modular bricks, dynamic weighted scoring
 Use case: Monitor Raspberry Pi remotely without heavy agents  
 Technique: Direct SSH2 connection, real-time GPIO reading  
 Accepted limitation: Requires SSH credentials (no magic)
-
-### Installation locale
-
-Each tool runs on simple HTML/CSS/JS/PHP.  
-Clone the repository, place the tool folder on a local server (Apache, Nginx, Laragon, WAMP…) and open index.php.
 
 ### Live Demo
 
